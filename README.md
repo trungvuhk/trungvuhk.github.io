@@ -13,4 +13,5 @@ Here is my [CV](TrungCV.pdf).
 - Quantum Harish-Chandra bimodules at roots of unity. In progress
 
 # Teaching
+- Math 1150 Calculus II, Spring/Fall 2025.
 
