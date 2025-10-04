@@ -13,5 +13,6 @@ Here is my [CV](TrungCV.pdf).
 - Quantum Harish-Chandra bimodules at roots of unity. In progress
 
 # Teaching
-- Math 1150 Calculus II, Spring/Fall 2025.
+- Math 1150 Calculus II, Spring/Fall 2025. Intructor
+- TA/Grader: Calculus, Linear Algebra, Introduction of Differential Manifold.
 
