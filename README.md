@@ -5,4 +5,4 @@ My research interests lie in geometric representation theory and quantum algebra
 
 Email: trung.vu@yale.edu
 
-Here is my CV.
+Here is my [CV](TrungVu.pdf).
