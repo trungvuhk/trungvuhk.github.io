@@ -6,3 +6,11 @@ My research interests lie in geometric representation theory and quantum algebra
 Email: trung.vu@yale.edu
 
 Here is my [CV](TrungCV.pdf).
+
+# Research
+- On the functor relating Harish-Chandra bimodules and Soergel bimodules, arXiv:2507.17067
+- On De Concini-Kac forms of quantum groups (with I.Losev and A.Tsymbaliuk). In preparation
+- Quantum Harish-Chandra bimodules at roots of unity. In progress
+
+# Teaching
+
