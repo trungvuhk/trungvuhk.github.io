@@ -9,7 +9,7 @@ Here is my [CV](TrungCV.pdf).
 
 # Research
 - On the functor relating Harish-Chandra bimodules and Soergel bimodules, arXiv:2507.17067
-- On De Concini-Kac forms of quantum groups (with I.Losev and A.Tsymbaliuk). In preparation. [Draft](quantum_groups1.pdf)
+- On De Concini-Kac forms of quantum groups (with I.Losev and A.Tsymbaliuk). In preparation.
 
 - Quantum Harish-Chandra bimodules at roots of unity. In progress
 
