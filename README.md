@@ -1,5 +1,5 @@
 # Trung Vu
-<img src="portrait.jpg" alt="Alt text" width="210" align="right" />
+<img src="portrait.jpg" alt="Alt text" width="250" align="right" />
 
 Hello! I am a math graduate student at Yale. My advisor is [Ivan Losev](https://gauss.math.yale.edu/~il282/).
 
