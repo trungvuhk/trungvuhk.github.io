@@ -3,7 +3,7 @@
 
 Hello! I am a math graduate student at Yale. My advisor is [Ivan Losev](https://ivanloseu.github.io/).
 
-My research interests lie in geometric representation theory, quantum algebras, quantum groups at roots of unity and related objects.
+My research interests lie in geometric representation theory, quantum algebras, quantum groups at roots of unity, Soergel bimodules and related objects.
 
 Email: trung.vu@yale.edu
 
