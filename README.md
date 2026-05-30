@@ -14,7 +14,7 @@ Here is my [CV](TrungCV.pdf).
 - On De Concini-Kac forms of quantum groups (with I.Losev and A.Tsymbaliuk), [arXiv: 2601.06696](https://arxiv.org/abs/2601.06696).
 
 
-- Quantum Harish-Chandra bimodules at roots of unity. In preparation.
+- Quantum Harish-Chandra bimodules at roots of unity and affine Hecke category. In preparation.
 
 # Teaching
 - Math 1150 Calculus II, Spring/Fall 2025. Intructor
