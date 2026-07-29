@@ -9,13 +9,16 @@ Email: trung.vu@yale.edu
 
 Here is my [CV](TrungCV.pdf).
 
+**I will be on the job market in Fall 2026.**
+
 # Research
 - On the functor relating Harish-Chandra bimodules and Soergel bimodules, [arXiv:2507.17067](https://arxiv.org/abs/2507.17067)
 - On De Concini-Kac forms of quantum groups (with I.Losev and A.Tsymbaliuk), [arXiv: 2601.06696](https://arxiv.org/abs/2601.06696).
-- Quantum Harish-Chandra bimodules at roots of unity and affine Hecke category, [arXiv: 2606.26331](https://arxiv.org/abs/2606.26331).
+- Quantum Harish-Chandra bimodules at roots of unity and affine Hecke category, [arXiv: 2606.26331](https://arxiv.org/abs/2606.26331), [Slide](QuantumHC.pdf)
 <sub> The paper only contains results for odd order roots of unity cases at the moment. I plan to include results for even order roots of unity cases soon. <sub>
 
 # Teaching
-- Math 1150 Calculus II, Spring/Fall 2025. Intructor
+- Math 1200 Calculus III, Spring 2027. Instructor
+- Math 1150 Calculus II, Spring & Fall 2025. Instructor
 - TA/Grader: Calculus, Linear Algebra, Introduction of Differential Manifold.
 
